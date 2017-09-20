@@ -14,6 +14,11 @@ Common
   Reported by Cyrille Verrier.
   [Tomaz Muraus]
 
+Compute
+~~~~~~~
+
+- [GCE] Support GCE node labels. (GITHUB-1115) [@maxlip]
+
 Changes in Apache Libcloud 2.2.0
 --------------------------------
 
