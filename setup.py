@@ -135,7 +135,7 @@ if PY2_pre_279 or PY3_pre_32:
 
 setup(
     name='apache-libcloud',
-    version=read_version_string() + '+20180516',
+    version=read_version_string() + '+20180831',
     description='A standard Python library that abstracts away differences' +
                 ' among multiple cloud provider APIs. For more information' +
                 ' and documentation, please see http://libcloud.apache.org',
